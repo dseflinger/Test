@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DSeflingerXMLColorSwap</string>
+    <string name="button_title">Tap Me!</string>
+    <string name="TextColorChange">Tap to Change Color</string>
+</resources>
